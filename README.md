@@ -25,7 +25,7 @@ Cedar模式文件夹结构同keyname
 
 起风了模式比较特殊，如果是快打，会播放一段段旋律，如果是慢打则随机播放
 
-程序目前有两个比较明显的问题，CPU资源占用率过高，在我的电脑上可以达到10%-15%，有一定概率的按键监听不到
+程序目前有个比较明显的问题，CPU资源占用率过高，在我的电脑上可以达到10%-15%
 
 程序改编自[https://www.bilibili.com/video/BV1LA411r7uE/?spm_id_from=333.999.0.0&vd_source=3ddab8de3e8ea0ade0d26715bf892df7](https://www.bilibili.com/video/BV1LA411r7uE/?spm_id_from=333.999.0.0&vd_source=3ddab8de3e8ea0ade0d26715bf892df7)
 程序本身并没有做太大的改动，主要是加入了更多的音效
