@@ -30,4 +30,10 @@ Cedar模式文件夹结构同keyname
 
 程序目前有个比较明显的问题，CPU资源占用率过高，在我的电脑上可以达到10%-15%
 
+
+-----------------分割线----------------------
+# 2024/11/11 #
+之前上传的MFC2.exe版本有问题，今天终于更新了可以正确运行的新版本，欢迎使用
+有问题欢迎私信， [https://www.bilibili.com/video/BV1v84y1G7Yc/?share_source=copy_web&vd_source=0cd78c8001a263312152352bce614b46](https://www.bilibili.com/video/BV1v84y1G7Yc/?share_source=copy_web&vd_source=0cd78c8001a263312152352bce614b46)
+
 程序学习自[https://www.bilibili.com/video/BV1LA411r7uE/?spm_id_from=333.999.0.0&vd_source=3ddab8de3e8ea0ade0d26715bf892df7](https://www.bilibili.com/video/BV1LA411r7uE/?spm_id_from=333.999.0.0&vd_source=3ddab8de3e8ea0ade0d26715bf892df7)
